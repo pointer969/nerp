@@ -5,10 +5,10 @@ error_reporting(0);
 ini_set("track_errors","0");
 
 //* // CONFIGURACAO DE BANCO DE DADOS LOCAL
-define("HOST","localhost");
-define("USER","usuario-aqui");
-define("PASS","senha-aqui");
-define("DB","bancoa-qui");
+define("HOST","rionegrosolucoes.com.br");
+define("USER","rioneg02_us_erp");
+define("PASS","Erp@2018");
+define("DB","rioneg02_db_erp");
 
 
 //*/
