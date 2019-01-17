@@ -1,0 +1,4 @@
+
+[00:08:06][Usuario Desconhecido][177.70.142.40][www.inovaminas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[00:08:06][Usuario Desconhecido][177.70.142.40][www.inovaminas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[00:08:14][][177.70.142.40][www.inovaminas.com.br/sistemas/erp/Login]> O usuario entrou.
