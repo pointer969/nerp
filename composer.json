@@ -1,5 +1,10 @@
 {
-    "require": {
-      "php": "^5.6.0"
-    }
-  }
+    "name": "maalmeida/nerp",
+    "authors": [
+        {
+            "name": "RNS",
+            "email": "marcelo@rionegrosolucoes.com.br"
+        }
+    ],
+    "require": {}
+}
